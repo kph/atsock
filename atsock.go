@@ -6,7 +6,6 @@
 package atsock
 
 import (
-	"fmt"
 	"net"
 	"net/rpc"
 )
